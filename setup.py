@@ -32,4 +32,4 @@ setup(name='woc',
       packages=['woc'],
       license='MIT',
       description='WOC delete',
-      python_requires='>=3.5.3'
+      python_requires='>=3.5.3')
